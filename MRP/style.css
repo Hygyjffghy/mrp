@@ -1,0 +1,27 @@
+/* Copyright © 2024, Hy Studios */
+
+/* Elements */
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+    color: white;
+    background-color: #1c1c1c;
+}
+
+/* IDs */
+#Header {
+    height: 100vh;
+    background-image: url('/assets/Header.png');
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Classes */
+.LargeHeaderText {
+    color: white;
+    font-size: 3vw;
+}
